@@ -1,0 +1,4 @@
+com/mycompany/restfulwebservice/webservice/Webservice.class
+com/mycompany/restfulwebservice/webservice/evler/Evler.class
+com/mycompany/restfulwebservice/webservice/evler/sorgu/Sorgu.class
+org/netbeans/rest/application/config/ApplicationConfig.class
